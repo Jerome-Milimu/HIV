@@ -1,0 +1,13 @@
+﻿country,sex,age,viral_suppression,frequency
+SouthAfrica,women,15+,yes,72
+SouthAfrica,women,15+,no,28
+SouthAfrica,men,15+,yes,58
+SouthAfrica,men,15+,no,42
+SouthAfrica,children,0-14,yes,33
+SouthAfrica,children,0-14,no,67
+Kenya,women,15+,yes,86
+Kenya,women,15+,no,14
+Kenya,men,15+,yes,72
+Kenya,men,15+,no,28
+Kenya,children,0-14,yes,73
+Kenya,children,0-14,no,27
